@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>076</filename>
+  <path>/media/laptop/vbox/&#30805;&#22763;&#27605;&#19994;&#35774;&#35745;/&#23567;&#35770;&#25991;/DataSet/Defective_Insulators/images/076.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1152</width>
+    <height>864</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>661</xmin>
+      <ymin>600</ymin>
+      <xmax>727</xmax>
+      <ymax>648</ymax>
+    </bndbox>
+  </object>
+</annotation>

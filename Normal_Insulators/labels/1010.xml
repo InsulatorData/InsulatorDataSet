@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>long</folder>
+  <filename>1010</filename>
+  <path>/opt/Deep_Learning_Data/Insulator/long/1010.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1152</width>
+    <height>864</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>147</xmin>
+      <ymin>442</ymin>
+      <xmax>920</xmax>
+      <ymax>533</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder></folder>
+  <filename>088</filename>
+  <path></path>
+    <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1152</width>
+    <height>864</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>480</xmin>
+      <ymin>685</ymin>
+      <xmax>544</xmax>
+      <ymax>733</ymax>
+    </bndbox>
+  </object>
+</annotation>
