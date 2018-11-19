@@ -1,6 +1,14 @@
 # Insulator Data Set - Chinese Power Line Insulator Dataset (CPLID)
 Provide normal insulator images captured by UAVs and synthetic defective insulator images.
 
+    
+    @article{tao2018detection,
+      title={Detection of Power Line Insulator Defects Using Aerial Images Analyzed With Convolutional Neural Networks},
+      author={Tao, Xian and Zhang, Dapeng and Wang, Zihao and Liu, Xilong and Zhang, Hongyan and Xu, De},
+      journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+      year={2018},
+      publisher={IEEE}
+    }
 This dataset is divided into two part:
 
 - `Normal_Insulators` contains the normal insulators capture by UAVs. The number of the normal insulator images is **600**.
